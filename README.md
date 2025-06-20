@@ -27,6 +27,7 @@ I'm a Computer Science undergrad at **VIT Chennai (2022–2026)** passionate abo
 ## 📌 Featured Projects
 🔹 [**Smart ATS Resume Analyzer**](https://github.com/Frozenfever4/smart-ats-resume-analyzer) – Gemini-powered resume scoring app for interview prep  
 🔹 [**Weather App**](https://github.com/Frozenfever4/Weather-App) – Simple frontend project using OpenWeatherMap API  
+🔹 [**Diabetic Foot Ulcer Detection**](https://github.com/Frozenfever4/Diabetic-Foot-Ulcer-Detection) – Identify and segment foot ulcers from medical images using deep learning techniques. 
 
 ---
 
