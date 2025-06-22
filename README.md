@@ -6,21 +6,27 @@ I'm a Computer Science undergrad at **VIT Chennai (2022–2026)** passionate abo
 
 ---
 
-## 🔧 Tech Stack & Interests
+## 🚀 Tech Stack & Interests
 
-**Languages:**  
-`Python` `C++` `JavaScript` `Java`
+**🧑‍💻 Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Frameworks & Tools:**  
-`Spring Boot` `React.js` `Flask` `TensorFlow` `PyTorch` `scikit-learn` `Node.js`
+**🧰 Frameworks & Tools** 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Cloud & DevOps:**  
-`AWS` `Docker` `MySQL` `Streamlit` `REST APIs`  
-
-**Domains I'm exploring:**  
-- Full Stack Web Development  
-- Machine Learning & Deep Learning   
-- System Design & Scalable Architectures  
+**☁️ Cloud & DevOps** 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
